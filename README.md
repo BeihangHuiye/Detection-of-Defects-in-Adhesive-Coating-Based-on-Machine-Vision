@@ -1,3 +1,3 @@
-小陶的论文《Detection of Defects in Adhesive Coating Based on Machine Vision》源代码
+《Detection of Defects in Adhesive Coating Based on Machine Vision》
 
-在论文ACCEPT后会开源论文所使用的代码！
+The code used in the paper will be open source after the paper ACCEPT!
